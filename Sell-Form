@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <body>
+<div style="font-family: Roboto; border-radius: 5px; padding: 1px 30px; width: 75%;">
+    <h2 style="color: rgba(250, 136, 54, 1); font-size:30px";>Sell Palm Coins</h2>
+    
+       <form accept-charset="UTF-8" action="https://formsubmit.co/sell.support@palmex.biz" method="POST" target="_blank" id="wpform">
+        <style>
+            form {
+    display: inline-block;
+    text-align: left;    
+}
+
+body {
+    text-align: center; 
+}
+        </style>    
+        <div>
+                <label>Account Name</label>
+                <div>
+                <input style="border-color: rgba(250, 136, 54, 1); margin-top: 5px; background-color: #fff; border-style: solid; outline: 1px solid orange; border-width: 1px; box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25); height:35px; width:235px;" type="text" name="account_name" placeholder="Enter first and last name" required="required">
+                </div>
+                </div>
+            <script>
+            function getInputFromTextBox() {
+        var input = document.getElementById("userInput").value;
+        alert(input);
+    }
+    </script>
+            <br>
+            <div>
+                <label>Account Number</label>
+                <div>
+                    <input style="margin-top: 5px; background-color: #fff; border-color: rgba(250, 136, 54, 1); border-style: solid; outline: 1px solid orange; border-width: 1px; box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25); height:35px; width:235px;" type="text" name="account_number" placeholder="0000000000" required="required">
+                </div>
+            </div>
+            <br>
+            <div>
+                <label>Bank Name</label>         
+            </div>
+            <div class="custom-select" style="margin-top: 5px; width:200px;">
+            <select name="bankname" class="form-control" required="required">
+        <option selected="selected" value="0">--Select --</option>
+        <option value="044">ACCESS BANK</option>
+        <option value="023">CITIBANK NIGERIA</option>
+        <option value="050">ECOBANK</option>
+        <option value="070">FIDELITY BANK NIGERIA</option>
+        <option value="011">FIRST BANK OF NIGERIA</option>
+        <option value="214">FIRST CITY MONUMENT BANK</option>
+        <option value="058">GUARANTEE TRUST BANK</option>
+        <option value="030">HERITAGE BANK PLC</option>
+        <option value="301">JAIZ BANK</option>
+        <option value="082">KEYSTONE BANK LIMITED</option>
+        <option value="101">PROVIDUS BANK PLC</option>
+        <option value="076">POLARIS BANK</option>
+        <option value="221">STANBIC IBTC BANK</option>
+        <option value="068">STANDARD CHARTERED BANK</option>
+        <option value="232">STERLING BANK</option>
+        <option value="100">SUNTRUST BANK NIGERIA LIMITED</option>
+        <option value="032">UNION BANK OF NIGERIA</option>
+        <option value="033">UNITED BANK FOR AFRICA</option>
+        <option value="215">UNITY BANK PLC</option>
+        <option value="035">WEMA BANK</option>
+        <option value="057">ZENITH BANK</option>
+    </select>
+    </div>
+            <br>
+            <div>
+                <label>Phone Number</label>
+                <div>
+                    <input style="margin-top: 5px; background-color: #fff; border-color: rgba(250, 136, 54, 1); border-style: solid; outline: 1px solid orange; border-width: 1px; box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25); height:35px; width:235px;" type="tel" name="phone" placeholder="08000000000" required="required">
+                </div>
+            </div>
+             <script>
+            function getInputFromTextBox() {
+        var input = document.getElementById("userInput").value;
+        alert(input);
+    }
+    </script>
+            <br>
+            <div>
+            <label>Email</label>
+            <div>
+            <input style="margin-top: 5px; background-color: #fff; border-color: rgba(250, 136, 54, 1); border-style: solid; outline: 1px solid orange; border-width: 1px; box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25); height:35px; width:235px;" type="text" name="email" placeholder="Enter your email" required="required">
+            </div>
+            </div>
+             <script>
+            function getInputFromTextBox() {
+        var input = document.getElementById("userInput").value;
+        alert(input);
+    }
+    </script>
+            <br>
+            <div>
+            <label>Password</label>
+            <div>
+            <input style="margin-top: 5px; background-color: #fff; border-color: rgba(250, 136, 54, 1); border-style: solid; outline: 1px solid orange; border-width: 1px; box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25); height:35px; width:235px;" type="password" name="password" placeholder="Enter your password" required="required">
+            </div>
+            </div>
+            <br>
+            <div>
+                <label>Unit Price</label>
+                <div>
+                <input style="margin-top: 5px; background-color: #fff; border-color: rgba(250, 136, 54, 1); border-style: solid; outline: 1px solid orange; border-width: 1px; box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25); height:35px; width:235px;" type="number" name="unit_price" value="700" readonly="readonly">
+                </div>          
+            </div>
+            <br>
+            <div>
+                <label>Number of Palm Coins</label>
+                <div>
+                    <input style="margin-top: 5px; background-color: #fff; border-color: rgba(250, 136, 54, 1); border-style: solid; outline: 1px solid orange; border-width: 1px; box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25); height:35px; width:235px;" type="number" name="number_of_palm_coins" placeholder="1" required="required">
+                </div>
+            </div>
+            <br>
+            <div>
+                <label>Total (NGN)</label>
+                <div style="margin-top: 5px; background-color: #fff; border-color: rgba(250, 136, 54, 1);  border-style: solid; outline: 1px solid orange; border-width: 1px; box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25); height:35px; width:235px;" id="sum1" type="text" name="total"> 
+                </div>
+                </div>
+            <br>
+
+            <div class="container">
+                <button class="btn">SUBMIT</button>
+              </div>
+              <style>
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  text-align: center;
+}
+
+.btn {
+  width: 100px;
+  height: 32px;
+  border: none;
+  color: white;
+  background-color: #FF8C00;
+  border-radius: 4px;
+  box-shadow: inset 0 0 0 0 #A9A9A9;
+  transition: ease-out 0.3s;
+  font-size: 14px;
+  outline: none;
+}
+
+.btn:hover {
+  box-shadow: inset 100px 0 0 0 #A9A9A9;
+  cursor: pointer;
+}
+              </style>
+        </form>
+    </div>
+    </body>
+    </head>
+    </html>
